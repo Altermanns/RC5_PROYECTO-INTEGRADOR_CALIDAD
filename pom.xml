@@ -18,7 +18,7 @@
         <junit.jupiter.version>5.10.2</junit.jupiter.version>
         <jacoco.version>0.8.11</jacoco.version>
         <checkstyle.version>3.3.1</checkstyle.version>
-        <pmd.version>3.21.2</pmd.version>
+        <pmd.version>3.23.0</pmd.version>
         <spotbugs.version>4.8.3.1</spotbugs.version>
     </properties>
 
